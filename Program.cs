@@ -37,7 +37,7 @@ namespace DIO.Bank
                 }
                 opcaoUsuario = ObterOpcaoUsuario();
             }
-            Console.WriteLine("Obrigado por usar nossos serviços");
+            Console.WriteLine("Obrigado por usar nossos serviços - volte sempre");
 
         }
 
